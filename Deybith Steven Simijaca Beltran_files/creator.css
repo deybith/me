@@ -52873,7 +52873,7 @@ h6 {
 }
 
 .c-document__content .page.pageSplitted, #creatorContent .page.pageSplitted {
-	max-height: 140rem
+	/* max-height: 140rem */
 }
 
 @media screen {
